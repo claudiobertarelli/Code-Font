@@ -42,3 +42,27 @@
 	font-family: 'Shadows Into Light', sans-serif !important;
 	letter-spacing:1px;
 }
+
+.code-font-droid-sans-mono .CodeMirror{
+	font-family: 'Droid Sans Mono', sans-serif !important;
+	letter-spacing:1px;
+}
+.code-font-share-tech-mono .CodeMirror{
+	font-family: 'Share Tech Mono', sans-serif !important;
+	letter-spacing:1px;
+}
+
+.code-font-nova-mono .CodeMirror{
+	font-family: 'Nova Mono', sans-serif !important;
+	letter-spacing:1px;
+}
+
+.code-font-roboto-mono .CodeMirror{
+	font-family: 'Roboto Mono', sans-serif !important;
+	letter-spacing:1px;
+}
+
+.code-font-oxygen-mono .CodeMirror{
+	font-family: 'Oxygen Mono', sans-serif !important;
+	letter-spacing:1px;
+}
